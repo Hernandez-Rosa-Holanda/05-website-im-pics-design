@@ -3,8 +3,7 @@
 
   <h3>Photo gallery</h3
   <p>
-    Projeto em andamento.</br>
-    Com o objetivo de atender as necessidades de uma galeria de fotos, criei essa landing page. 
+   Layouy para site de fotografia.
   </p>
 <h2>Layout</h2>
 
